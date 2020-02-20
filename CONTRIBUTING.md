@@ -14,7 +14,7 @@ We gratefully welcome improvements to documentation as well as to code.
 ## Getting Started
 
 ### Pre-requisites
-* Install [Go](https://golang.org/doc/install) and setup GOPATH and add $GOPATH/bin in PATH 
+* Install [Go](https://golang.org/doc/install) and setup GOPATH and add $GOPATH/bin in PATH. You must have go1.13 or higher.
 
 This library uses [dep](https://golang.github.io/dep) to manage dependencies.
 
